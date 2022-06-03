@@ -1,1 +1,1 @@
-Hello World
+The example domain name for codersafe Development
